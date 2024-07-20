@@ -15,8 +15,8 @@
 1. **Клонируйте репозиторий**
 
    ```bash
-   git clone <URL вашего репозитория>
-   cd <папка репозитория>
+   git clone https://github.com/Mezhbert/check_homework_tg_bot.git
+   cd check_homework_tg_bot
 
 2. **Создайте и активируйте виртуальное окружение**
 
